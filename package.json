@@ -1,0 +1,13 @@
+{
+  "name": "apu-consultancy-website",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": "24.x" },
+  "scripts": {
+    "start": "node server.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "package:azure": "npm run build && node scripts/package.mjs"
+  }
+}

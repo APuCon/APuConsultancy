@@ -1,0 +1,34 @@
+APu Consultancy — website
+========================
+
+WEBSITE BEKIJKEN
+1. Pak het volledige ZIP-bestand uit.
+2. Open de map dist.
+3. Dubbelklik op index.html om de website in uw browser te bekijken.
+Open de website vanuit de uitgepakte map, niet rechtstreeks vanuit de ZIP.
+
+Alle afbeeldingen, logo's en lettertypen zijn lokaal opgenomen.
+Voor het bekijken hoeft u niets te installeren.
+E-mail- en telefoonlinks openen uw eigen mail- of telefoonprogramma.
+
+PROJECTBESTANDEN
+- dist: de volledige website, inclusief HTML, CSS, JavaScript en media.
+- server.mjs: optionele lokale webserver voor ontwikkelaars (Node.js nodig).
+- documentatie: bronvermeldingen en toelichting op de inhoud.
+
+OPTIONELE LOKALE WEBSERVER
+Voer in deze projectmap uit: node server.mjs
+Open vervolgens http://127.0.0.1:4173 in uw browser.
+Als er al een preview draait op dit adres, kunt u die gebruiken.
+
+AANPASSEN EN HOSTEN
+De teksten staan in dist/index.html, de vormgeving in dist/style.css en
+ dist/impact.css, en de interacties in dist/app.js.
+Er is geen buildstap nodig. Voor hosting gebruikt u de inhoud van dist.
+Deze overdracht publiceert de website niet; de website blijft lokaal.
+
+BEELD EN INHOUD
+De bannerfoto is een gegenereerde illustratie en toont geen echte medewerkers.
+Het APu-logo is als SVG opgenomen op basis van het aangeleverde origineel.
+De projectteksten zijn gebaseerd op de oorspronkelijke APu-website.
+Bedrijfslogo's blijven eigendom van de betreffende bedrijven.
